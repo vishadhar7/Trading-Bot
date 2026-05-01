@@ -4,6 +4,7 @@
 
 1. Clone repo
 2. Install dependencies:
+
    pip install python-binance
    
    pip install python-dotenv
