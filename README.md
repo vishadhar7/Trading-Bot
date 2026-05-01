@@ -5,9 +5,10 @@
 1. Clone repo
 2. Install dependencies:
    pip install python-binance
+   
    pip install python-dotenv
 
-3. Add .env file with API keys
+4. Add .env file with API keys
 
 ## Usage
 
